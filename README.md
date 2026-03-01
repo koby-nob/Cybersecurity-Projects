@@ -1,29 +1,28 @@
 # Cybersecurity-Projects
 
 
-
-
 <h2>Description </h2>
 
     - This project outlines the creating of virtual blue team environment.
     
-     <h2>Environments and Technologies Used</h2>
          - Windows PC
          - Vmare Workstation
          
 <h2>Operating System Used </h2>
-         - Windows 10 Pro  
-         - Windows Server 2022 Datacenter: Azure Edition -x64
+
+         - Host machine: Parrot OS Linux 
+         - Victim machine: Ubuntu Linux
 
 <h2>Installation Steps </h2>
 
- - This project will display windows specs
+ - Screenshot 1- Windows specs
 
 <img width="738" height="194" alt="Screenshot_2a_My Windows specs" src="https://github.com/user-attachments/assets/79b22f18-ffe5-4154-915e-fe5785a31d44" />
 
     - Find out what your widows specs of your system
-    - On Window > right click the start button> select system, and post screenshot
-    
+    - On Window > right click the start button > select system, and post screenshot
+
+ - Screenshot 2- using ifconfig command host machine
 
 <img width="798" height="660" alt="screenshot" src="https://github.com/user-attachments/assets/74a040a0-82a4-4fde-abd4-b7630d7aa2ec" />
 
