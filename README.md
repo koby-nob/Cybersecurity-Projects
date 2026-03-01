@@ -21,8 +21,8 @@
 
 <img width="738" height="194" alt="Screenshot_2a_My Windows specs" src="https://github.com/user-attachments/assets/79b22f18-ffe5-4154-915e-fe5785a31d44" />
 
-    - Click the START button to open the Server Manager or double click the Server Manager icon from Windows desketop screen.
-    - Once the Server Manager is opened, > select Dashboard > then click on "Add roles and features" to start the install process.
+    - Find out what your widows specs of your system
+    - On Window > right click the start button> select system, and post screenshot
     
 
 <img width="798" height="660" alt="screenshot" src="https://github.com/user-attachments/assets/74a040a0-82a4-4fde-abd4-b7630d7aa2ec" />
