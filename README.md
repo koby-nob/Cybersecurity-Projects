@@ -27,21 +27,19 @@
 <img width="798" height="660" alt="screenshot" src="https://github.com/user-attachments/assets/74a040a0-82a4-4fde-abd4-b7630d7aa2ec" />
 
 
-    - Click the START button to open the Server Manager or double click the Server Manager icon from Windows desketop screen.
-    - Once the Server Manager is opened, > select Dashboard > then click on "Add roles and features" to start the install process.
+    - Type: /sbin/ifconfig
 
  - Screenshot 3- ping the victim machine (ubuntu) with date, and timestamp
 
 <img width="811" height="283" alt="Screenshot 2b_Parrot pinging ubuntu machine successfully with timestamp and date" src="https://github.com/user-attachments/assets/337b779f-8a53-49e3-ac9b-6045a8fb601b" />
 
-    - Click the START button to open the Server Manager or double click the Server Manager icon from Windows desketop screen.
-    - Once the Server Manager is opened, > select Dashboard > then click on "Add roles and features" to start the install process.
+    - Type: ping 10.1.6.25 -c 4 | ts '[%Y-%m-%d %H:%M:%S]'
+    
 
  - Screenshot 3- ping the host machine (parrot) with date, and timestamp
   
 <img width="1130" height="312" alt="Screenshot 2c_pinging parrot machine successfully with timestamp and date" src="https://github.com/user-attachments/assets/568b8a9e-c75f-4b86-8bf4-147fb07978a0" />
 
 
-    - Click the START button to open the Server Manager or double click the Server Manager icon from Windows desketop screen.
-    - Once the Server Manager is opened, > select Dashboard > then click on "Add roles and features" to start the install process.
+    - Type: - Type: ping 10.1.6.200 -c 4 | ts '[%Y-%m-%d %H:%M:%S]'
 
